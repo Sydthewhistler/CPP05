@@ -1,4 +1,4 @@
-FILE = main.cpp Bureaucrat.cpp Form.cpp
+FILE = AForm.cpp Bureaucrat.cpp main.cpp PresidentialPardonForm.cpp RobotomyRequestForm.cpp ShrubberyCreationForm.cpp Intern.cpp
 NAME=Bureaucrat
 CC=c++ -std=c++98
 CFLAGS=-Wall -Wextra -Werror

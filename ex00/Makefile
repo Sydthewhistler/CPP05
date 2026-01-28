@@ -1,5 +1,5 @@
 FILE = main.cpp Bureaucrat.cpp
-NAME=Animal
+NAME=Bureaucrat
 CC=c++ -std=c++98
 CFLAGS=-Wall -Wextra -Werror
 SRCS = $(FILE)
